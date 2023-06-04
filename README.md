@@ -54,8 +54,8 @@ NOTE: You don't have to use any pre-trained model using Transfer learning. All t
   - Write your findings after the model fit, see if the issues are resolved or not?
  
 ## Conclusions
-- The final model used the Augmentor library to artificially generate enough samples to come up with a model that can detect a correct cancer type with a validation accuracy around 93 %. 
-- The validation loss for the final model was 0.17
+- The final model used the Augmentor library to artificially generate enough samples to come up with a model that can detect a correct cancer type with a validation accuracy around _ %. 
+- The validation loss for the final model was _
 
  
 
