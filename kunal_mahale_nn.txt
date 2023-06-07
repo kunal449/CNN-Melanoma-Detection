@@ -1,0 +1,4 @@
+Project : Melanoma Detection Assignment
+Location of the Project :  https://github.com/kunal449/CNN-Melanoma-Detection
+Student Name : Kunal Mahale 
+Batch : ML C47
